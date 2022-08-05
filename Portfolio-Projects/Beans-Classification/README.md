@@ -1,3 +1,3 @@
 # Categorization of Beans using Machine Learning
-Multiclass classification of 7 bean species based on measurements. Includes EDA, visualization, 
-standardization, feature selection, and evaluation of several models, including hyperparameter tuning. 
+Multiclass [classification of 7 bean species](https://github.com/ScottBreitbach/ScottBreitbach.github.io/blob/main/Portfolio-Projects/Beans-Classification/Beans-Classification.ipynb) based on measurements. Includes EDA, visualization, 
+standardization, [feature selection](https://github.com/ScottBreitbach/ScottBreitbach.github.io/blob/main/Portfolio-Projects/Beans-Classification/Feature-selection.ipynb), and evaluation of several models, including [hyperparameter tuning](https://github.com/ScottBreitbach/ScottBreitbach.github.io/blob/main/Portfolio-Projects/Beans-Classification/Hyperparameter-tuning.ipynb). 
