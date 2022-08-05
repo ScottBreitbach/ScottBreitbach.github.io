@@ -1,0 +1,17 @@
+feat,f,mi,logreg,lightgbm,mrmr
+Area,1.0,3.0,10.0,2.0,1
+Perimeter,4.0,1.0,5.0,7.0,6
+MajorAxisLength,6.0,5.0,7.0,5.0,8
+MinorAxisLength,5.0,7.0,2.0,8.0,3
+AspectRation,9.0,11.0,11.0,11.0,2
+Eccentricity,12.0,12.0,12.0,16.0,11
+ConvexArea,2.0,4.0,8.0,4.0,4
+EquivDiameter,3.0,2.0,6.0,14.0,5
+Extent,16.0,16.0,16.0,13.0,15
+Solidity,15.0,15.0,15.0,12.0,16
+16,13.0,13.0,9.0,6.0,13
+Compactness,10.0,9.0,14.0,1.0,7
+ShapeFactor1,8.0,8.0,1.0,3.0,10
+ShapeFactor2,7.0,6.0,3.0,10.0,12
+ShapeFactor3,11.0,10.0,13.0,15.0,9
+ShapeFactor4,14.0,14.0,4.0,9.0,14
