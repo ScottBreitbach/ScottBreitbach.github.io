@@ -3,8 +3,8 @@ title: "Housing Data Modeling"
 author: "Scott Breitbach"
 date: "11/14/2021"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 ---
 
