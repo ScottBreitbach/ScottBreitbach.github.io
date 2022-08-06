@@ -1,4 +1,4 @@
-# Welcome to **Scott's** Portfolio
+# Welcome to [**Scott's** Portfolio](https://scottbreitbach.github.io/)
 
 I am a Biologist and budding Data Scientist versed in Machine Learning and Data Visualization using Python, R, Power BI
 
