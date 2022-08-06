@@ -4,6 +4,7 @@ I am a Biologist and budding Data Scientist versed in Machine Learning and Data 
 
 ## Portfolio
 
+Here's some of my selected work:
 - [Cornhusker Football and Public Safety](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Football-Safety)
  - Use R for analysis of crime and traffic incidents in Lincoln, NE on Cornhusker game weekends compared to non-game weekends.
 - [Nebraska Breweries](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/NE-Breweries)
