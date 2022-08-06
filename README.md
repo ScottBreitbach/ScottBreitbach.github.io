@@ -40,8 +40,7 @@ Now it's time to see where these new tools might lead me.
 ## Contact Me
 
 Where I reside: <a href="https://goo.gl/maps/AmrskHZBU2FpQ6gb8" target="_blank" rel="noopener noreferrer">Lincoln, NE</a>
-<!-- [Lincoln, NE](https://goo.gl/maps/AmrskHZBU2FpQ6gb8) -->
 
-<a href="https://scottbreitbach.github.io/Resume/ScottBreitbach-Resume.html" target="_blank" rel="noopener noreferrer">Resume</a>
+<a href="https://scottbreitbach.github.io/Resume/ScottBreitbach-Resume.html" target="_blank" rel="noopener noreferrer">Résumé</a>
 
 <a href="mailto: scott.breitbach@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
