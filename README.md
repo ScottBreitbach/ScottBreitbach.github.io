@@ -5,12 +5,12 @@ I am a Biologist and budding Data Scientist versed in Machine Learning and Data 
 ## Portfolio
 
 Here's some of my selected work:
-1. [Cornhusker Football and Public Safety](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Football-Safety)
+1. [Cornhusker Football and Public Safety](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Football-Safety)  
     Use R for analysis of crime and traffic incidents in Lincoln, NE on Cornhusker game weekends compared to non-game weekends.
 1. [Nebraska Breweries](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/NE-Breweries)
-    * Use Python for scraping tables on the web to collect data. Cleaning data and combining using SQL joins. Standardization of addresses and phone numbers, and geographic mapping of brewery locations.
+: Use Python for scraping tables on the web to collect data. Cleaning data and combining using SQL joins. Standardization of addresses and phone numbers, and geographic mapping of brewery locations.
 1. [Immigration Ancestry and Income](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Income-Ancestry)
-    * Python analysis to determine whether having grandparents born outside of the US impacts the income of an individual or family.
+:  Python analysis to determine whether having grandparents born outside of the US impacts the income of an individual or family.
 1. [Bean Classification using ML](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Beans-Classification)
     * Multiclass classification of 7 bean species based on measurements. Includes EDA, visualization, standardization, feature selection, and evaluation of several models, including hyperparameter tuning.
 1. [Housing Price Modeling](https://github.com/ScottBreitbach/ScottBreitbach.github.io/tree/main/Portfolio-Projects/Housing-Prices)
