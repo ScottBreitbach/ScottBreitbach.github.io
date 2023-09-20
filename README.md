@@ -1,6 +1,6 @@
 # Welcome to [**Scott's** Portfolio](https://scottbreitbach.github.io/)
 
-I am a Biologist and budding Data Scientist versed in Machine Learning and Data Visualization using Python, R, Power BI
+I am a Biologist and budding Data Scientist versed in Machine Learning and Data Visualization using Python, R, Power BI, Tableau, Alteryx, and JMP
 
 ## Portfolio
 
@@ -39,7 +39,7 @@ Now it's time to see where these new tools might lead me.
 
 ## Contact Me
 
-Where I reside: <a href="https://goo.gl/maps/AmrskHZBU2FpQ6gb8" target="_blank" rel="noopener noreferrer">Lincoln, NE</a>
+Where I reside: <a href="https://maps.app.goo.gl/CtWcRquuG5PqesS77" target="_blank" rel="noopener noreferrer">Waterloo, IA</a>
 
 <a href="https://scottbreitbach.github.io/Resume/ScottBreitbach-Resume.html" target="_blank" rel="noopener noreferrer">Résumé</a>
 
